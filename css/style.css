@@ -1,0 +1,15 @@
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;	
+}
+
+#splash-ad {
+	background: url('http://www.thickslicepizza.com/img/photo3.jpg') center top no-repeat;
+	background-size: cover;
+	color: white;
+	text-align: right;
+}
+
+#splash-ad h1 {
+	text-shadow: 3px 3px 3px #333;
+}
