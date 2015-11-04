@@ -13,3 +13,9 @@ body {
 #splash-ad h1 {
 	text-shadow: 3px 3px 3px #333;
 }
+
+.btn-primary {
+	background-color: orange;
+	color: white;
+	border-color: white;
+}
